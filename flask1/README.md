@@ -12,5 +12,5 @@
 <br>
 
 <br>
-<h5>Here we are using python's flask for creating a predicting model web application</h5>
+<h5><i>Here we are using python's flask for creating a predicting model web application</i></h5>
 
