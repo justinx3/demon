@@ -4,13 +4,29 @@
 <br>
 <br>
 
- <h2>PYTHON'S FLASK</h4>
- <p>Python's Flask micro web framework is well-liked and frequently used to create online apps. 
+ ##PYTHON'S FLASK
+ Python's Flask micro web framework is well-liked and frequently used to create online apps. 
   It offers a straightforward and adaptable method for developing Python-based web applications 
-  and APIs (Application Programming Interfaces).</p>
+  and APIs (Application Programming Interfaces)
 <br>
 <br>
 
 <br>
-<h5><i>Here we are using python's flask for creating a predicting model web application</i></h5>
+##Required packages
+<p><u>numpy</u></p>
+'''
+pip install numpy
+'''
+<p><u>flask</u></p>
+'''
+pip install flask
+'''
 
+install this dependencies in your working environment
+<br>
+<br>
+##app running
+'''
+python app.py
+'''
+##thank you❤️
