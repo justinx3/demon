@@ -14,9 +14,9 @@
 <br>
 ##Required packages
 <p><u>numpy</u></p>
-'''
+```
 pip install numpy
-'''
+```
 <p><u>flask</u></p>
 '''
 pip install flask
